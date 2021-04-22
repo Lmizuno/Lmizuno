@@ -1,10 +1,9 @@
 ### Hi there, I'm Luis Mizuno!👋
 
-
-
 ## Student, Developer, Curious!!
 
 - 🌱 I’m currently improving my C++!!
+- 🌱 I’m currently improving my PHP!! It's crazy I know. But Symfony caught me off guard, crazy how fun it is.
 - 👯 I’m looking to upload more of my personal projects here!
 - 🥅 2021 Goals: Deepen my current knowledge! 
 - ⚡ Fun fact: I love to play guitar and learn different things!
