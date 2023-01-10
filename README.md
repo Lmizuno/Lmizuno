@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently expanding my web-stack knowlede, it's always good to try new things.
 - 👯 I’m looking to upload more of my personal projects here!
-- 🥅 2022 Goals: Push more projects! 
+- 🥅 2023 Goals: Push more projects! 
 
 ### Connect with me:
 
