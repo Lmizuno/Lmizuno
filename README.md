@@ -1,6 +1,6 @@
 ## Hi there, I'm Luis!👋
 
-Software Developer with 7+ years of experience in Web Development and Android, as well as AI & Machine Learning. 
-Skilled in building high-performance applications, optimizing system efficiency, and enhancing user engagement. 
-Adept at full-stack development, Agile teamwork, and implementing CI/CD pipelines. 
-Passionate about leveraging innovative technologies to drive business growth and user satisfaction.
+Software Developer with 3 years of professional experience in Web and Android development, as well as AI &
+Machine Learning. Additionally, 4 years of freelancing in WordPress-based Web Development. Proven ability to
+build high-performance applications, optimize system efficiency, and enhance user engagement. Passionate about leveraging
+cutting-edge technologies to drive business growth and improve user experience.
